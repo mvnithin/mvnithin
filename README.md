@@ -24,7 +24,9 @@
 
 ###
 
-<h1 align="center">hey there 👋<br>I'm NITHIN M V</h1>
+<h1 align="center">hey there 👋</h1>
+<h1 align="center">I'm NITHIN M V</h1>
+
 
 ###
 

@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">✨ A passionate Software Engineer from India<br>🚀 I’m interested in Web development, Python programming, and Graphics Designing<br>🌱 I’m currently learning AI & Web development<br>👨‍💻 All of my projects are available at https://mvnithin.github.io/nithin-portfolio/</p>
+<p align="left">✨ A passionate Software Engineer from India<br>🚀 I’m interested in Web development, Python programming, and Graphics Designing<br>🌱 I’m currently learning  Web development<br>👨‍💻 All of my projects are available at https://mvnithin.github.io/nithin-portfolio/</p>
 
 ###
 

@@ -19,6 +19,7 @@ Aspiring Software Engineer
 
 ### 💻 Workspace Spec
  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_5500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+ <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="77" height="30" role="img" aria-label="Windows: ">
 
 ![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvnithin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
